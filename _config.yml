@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colin Case"
+title                    : "Taylor Tokos"
 title_separator          : "-"
-name                     : &name "Colin Case"
-description              : &description "Assistant Professor, University of Iowa"
+name                     : &name "Taylor Tokos"
+description              : &description "Ph.D. Candidate, University of Iowa"
 url                      : https://colinrcase.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "crcase.github.io"
+repository               : "ttokos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Colin Case"
+  name             : "Taylor Tokos"
   avatar           : "case_headshot.jpg"
-  bio              : "Assistant Professor, University of Iowa"
+  bio              : "Ph.D. Candidate, University of Iowa"
   location         : "Iowa City, IA"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jXKUyf4AAAAJ&hl=en"
-  email            : "colin-case@uiowa.edu"
+  email            : "taylor-tokos@uiowa.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "crcase"
+  github           : "ttokos"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@colinrcase"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
