@@ -5,11 +5,11 @@ permalink: /contact
 author_profile: true
 ---
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1.5em;">
+<div style="max-width: 500px; margin-bottom: 1.5em;">
   <iframe
-    src="https://maps.google.com/maps?q=Schaeffer+Hall,+20+E+Washington+St,+Iowa+City,+IA+52242&z=16&output=embed"
+    src="https://maps.google.com/maps?q=Schaeffer+Hall,+University+of+Iowa,+Iowa+City,+IA&z=17&output=embed"
     title="Map of Schaeffer Hall, University of Iowa"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    style="width: 100%; height: 300px; border: 0;"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
     allowfullscreen>
