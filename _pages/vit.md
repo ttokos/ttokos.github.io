@@ -1,6 +1,6 @@
 ---
-permalink: /vitae/
-title: "CV"
+permalink: /vitae
+title: ""
 ---
 
 {% include base_path %}
